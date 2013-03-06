@@ -1,4 +1,4 @@
-program juego;
+program juegos;
 
 type
     cartas = (candelabro, cuchillo, cuerda, llave_inglesa, revolver, tubo,
