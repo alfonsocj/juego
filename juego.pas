@@ -1,0 +1,5 @@
+PROGRAM juego
+
+BEGIN
+
+END.
