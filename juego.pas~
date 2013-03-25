@@ -43,5 +43,4 @@ begin
 	writeln(personaje);
 	writeln(lugar);
 	writeln(dados());
-writeln('lalalala');
 end.
